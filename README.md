@@ -1,6 +1,6 @@
 <div align="center">
 
-# N | Data • Dev • AI
+# N •exe
 
 ### 👩‍💻 Data Science Student • Developer • AI Enthusiast
 
